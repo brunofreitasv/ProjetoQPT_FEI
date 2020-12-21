@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/QuemPoupaTem/v16/.suo
+/QuemPoupaTem/Relatorio_pjt_P1_Bruno_e_Gustavo.pdf
+/QuemPoupaTem/__pycache__
+/QuemPoupaTem/Util/__pycache__
+/QuemPoupaTem/ExternalPackages/keyboard
+/QuemPoupaTem/DAL/__pycache__

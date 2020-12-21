@@ -4,8 +4,9 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>485b461d-fad1-49e2-8c41-8552d260e2f2</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Start.py</StartupFile>
-    <SearchPath>ExternalPackages\keyboard-0.13.5</SearchPath>
+    <StartupFile>Main.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>QuemPoupaTem</Name>
@@ -23,6 +24,9 @@
     <Compile Include="DAL\DataAccess.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Menu.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Opcoes.py">
       <SubType>Code</SubType>
     </Compile>
@@ -35,7 +39,9 @@
     <Compile Include="DAL\Transacoes.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Start.py" />
+    <Compile Include="Main.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Util\Utilitarios.py">
       <SubType>Code</SubType>
     </Compile>

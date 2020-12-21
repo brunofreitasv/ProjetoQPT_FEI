@@ -1,0 +1,14 @@
+{
+   "45678912312": {
+      "Nome": "Tyrion Lanister",
+      "Senha": "123senha"
+   },
+   "12345678912": {
+      "Nome": "Daenerys Targaryen",
+      "Senha": "drogo"
+   },
+   "14725836900": {
+      "Nome": "John Snow Know Nothing",
+      "Senha": "idontwantit"
+   }
+}
